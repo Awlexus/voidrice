@@ -29,7 +29,7 @@ Allowed options:
   prev		Previous track
   toggle	Toggle pause
   truepause	Pause
-  foward NUM	Seek foward in song (2 secs default)
+  forward NUM	Seek forward in song (2 secs default)
   back NUM	Seek back in song (2 secs default)
   restart	Restart current song
   all else	Print this message
